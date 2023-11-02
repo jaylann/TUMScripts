@@ -3,9 +3,10 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Replace the word 'tum' with the TUM Logo
-// @author       Jaylann
+// @author       https://github.com/jaylann
 // @match        *://*/*
 // @grant        none
+// @license MIT
 // ==/UserScript==
 
 (function() {
