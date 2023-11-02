@@ -3,9 +3,10 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.4
 // @description  Uses sophisticated psychological techniques to keep your attention on TUM pages
-// @author       Jaylann
+// @author       https://github.com/jaylann
 // @match        *://*.tum.de/*
 // @grant        none
+// @license MIT
 // ==/UserScript==
 
 (function() {
