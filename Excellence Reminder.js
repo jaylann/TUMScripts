@@ -3,9 +3,10 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Reminds you of TUMs excellence in random intervals
-// @author       Jaylann
+// @author       https://github.com/jaylann
 // @match        *://*.tum.de/*
 // @grant        none
+// @license MIT
 // ==/UserScript==
 
 (function() {
