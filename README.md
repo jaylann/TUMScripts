@@ -16,12 +16,6 @@ A collection of satirical and entertaining Tampermonkey userscripts designed to 
 - [License](#license)
 - [Author](#author)
 
-## 🌟 Overview
-
-TUMScripts is a humorous take on university life at TUM, featuring userscripts that add entertaining elements to your browsing experience. Whether you're procrastinating on assignments or navigating TUM's digital ecosystem, these scripts inject a bit of fun into your academic journey.
-
-**Keywords:** `userscripts`, `tampermonkey`, `tum`, `university`, `javascript`, `browser-extension`, `humor`, `satire`, `munich`, `technische-universität-münchen`
-
 ## 🚀 Scripts
 
 ### 🏆 Excellence Reminder
