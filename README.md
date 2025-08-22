@@ -12,7 +12,6 @@ A collection of satirical and entertaining Tampermonkey userscripts designed to 
 - [Scripts](#scripts)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Author](#author)
 
@@ -98,32 +97,6 @@ Scripts can be configured through the Tampermonkey dashboard:
 To temporarily disable a script:
 1. Open Tampermonkey dashboard
 2. Toggle the script off using the switch next to its name
-
-## 🤝 Contributing
-
-Contributions are welcome! Whether you want to add new scripts, improve existing ones, or enhance documentation:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-script`)
-3. Commit your changes (`git commit -m 'Add amazing new script'`)
-4. Push to the branch (`git push origin feature/amazing-script`)
-5. Open a Pull Request
-
-### Script Guidelines
-
-- Follow Tampermonkey userscript format
-- Include proper metadata headers
-- Use MIT license
-- Test thoroughly before submitting
-- Document any new dependencies or requirements
-
-## ⚠️ Disclaimer
-
-These scripts are created for entertainment and educational purposes. Use responsibly and be mindful of:
-- University IT policies
-- Website terms of service
-- Academic integrity guidelines
-- Bandwidth and performance considerations
 
 ## 📄 License
 
