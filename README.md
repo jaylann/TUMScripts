@@ -129,12 +129,7 @@ These scripts are created for entertainment and educational purposes. Use respon
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**jaylann**
-- GitHub: [@jaylann](https://github.com/jaylann)
-- Created with ❤️ for the TUM community
-
 ---
-
-*Made with humor and a healthy dose of procrastination. Remember: Excellence is not just a goal, it's a reminder that plays at random intervals!* 🎉
+<p align="center">
+  Made with ❤️ by <a href="https://lanfermann.dev">Justin Lanfermann</a>
+</p>
